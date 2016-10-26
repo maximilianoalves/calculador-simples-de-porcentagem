@@ -10,5 +10,5 @@ javascript: void((
 		desconto = valor - resultado;
 		acrescimo = valor + resultado;
 
-		alert('Resultado: ' + resultado + '\n' + 'Desconto: ' + desconto + '\n' + 'Acrescido ao valor: ' + acrescimo  );
+		alert('Resultado: ' + resultado + '\n' + 'Desconto de : ' + desconto + '%\n' + 'Acrescido ao valor: ' + acrescimo  );
 	})());
